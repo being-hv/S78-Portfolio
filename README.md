@@ -1,3 +1,1 @@
-# Adeola Adeoti
-
-Second version of my portfolio
+# Stackweavers' made portfolio of Kalvium Squad 78

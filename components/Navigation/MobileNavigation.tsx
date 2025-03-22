@@ -47,47 +47,14 @@ export const MobileNavigation = ({ variants, isOpen }: any) => (
         }
         className="navigation-top"
       >
-        <div className="navigation-top__left">
-          <h4 className="navigation-h4">DONT BE A STRANGER</h4>
-          <div className="navigation-top__left--links">
-            <a
-              href="https://github.com/adeolaadeoti"
-              rel="noopener"
-              target="_blank"
-            >
-              👾 GH
-            </a>
-            <a
-              href="https://twitter.com/adeolajs"
-              rel="noopener"
-              target="_blank"
-            >
-              🐦 TW
-            </a>
-            <a
-              href="https://www.linkedin.com/in/adeoladev"
-              rel="noopener"
-              target="_blank"
-            >
-              💼 LD
-            </a>
-            <a
-              href="https://www.instagram.com/adeolaadeoti_"
-              rel="noopener"
-              target="_blank"
-            >
-              📸 IN
-            </a>
-          </div>
-        </div>
         <div className="navigation-top__right">
-          <h4 className="navigation-h4">HAVE AN IDEA?</h4>
+          <h4 className="navigation-h4">Kalvium Squad 78</h4>
           <a
-            href="mailto:adeolaonigegeara@gmail.com"
+            href="mailto:harshvardhanam@icloud.com"
             target="_blank"
             rel="nofollow noopener noreferrer"
           >
-            Tell me about it
+            Know about us
           </a>
         </div>
       </motion.div>
@@ -100,7 +67,7 @@ export const MobileNavigation = ({ variants, isOpen }: any) => (
         }
         className="navigation-bottom"
       >
-        <h4 className="navigation-h4">FEATURED PROJECTS</h4>
+        <h4 className="navigation-h4">OUR FEATURETTE</h4>
         <div className="navigation-bottom__projects">
           <a
             target="_blank"
@@ -110,34 +77,342 @@ export const MobileNavigation = ({ variants, isOpen }: any) => (
           >
             <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
             <h2>
-              Alexxandria
+              Harshvardhanam
               <br />
-              Forque
+              .
             </h2>
           </a>
           <a
-            href="https://safarika-adeola.netlify.app/"
             target="_blank"
             rel="noopener"
+            href="https://alexxandria.vercel.app/"
             className="navigation-bottom__projects-card"
           >
-            <img src="webp/safarika-nav.webp" alt="safarika" />
-            <h2>Safarika</h2>
-          </a>
-          <a
-            href="https://adeolaadeoti.netlify.app/"
-            target="_blank"
-            rel="noopener"
-            className="navigation-bottom__projects-card"
-          >
-            <img src="webp/adeola-1.webp" alt="adeola" />
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
             <h2>
-              AdeolaAdeoti
+              Kunal
               <br />
-              Version 1
+              Ahuja
             </h2>
           </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Muskan
+              <br />
+              Dawar
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Jiya
+              <br />
+              Agnihotri
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Laviza
+              <br />
+              Munzal
+            </h2>
+          </a>
+          <br/>
         </div>
+
+        <div className="navigation-bottom__projects">
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Harprabh
+              <br />
+              Singh
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Harsehaj
+              <br />
+              Singh
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Harshita
+              <br />
+              .
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Himanshu
+              <br />
+              Bansal
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Hridyajit
+              <br />
+              Singh
+            </h2>
+          </a>
+          <br />
+        </div>
+
+        <div className="navigation-bottom__projects">
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Ishpreet
+              <br />
+              Singh
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Jasan
+              <br />
+              Singh
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Jasnoor
+              <br />
+              Kaur
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Jatin
+              <br />
+              Malik
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Kaashvi
+              <br />
+              .
+            </h2>
+          </a>
+          <br/>
+        </div>
+
+        <div className="navigation-bottom__projects">
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Kavya
+              <br />
+              Gujral
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Krish
+              <br />
+              Garg
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Lavanya
+              <br />
+              Mahajan
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Lavanya
+              <br />
+              Luhan
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Madhav
+              <br />
+              Mehta
+            </h2>
+          </a>
+          <br/>
+        </div>
+
+        <div className="navigation-bottom__projects">
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Manan
+              <br />
+              Mahajan
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Mitansh
+              <br />
+              Kaushal
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Nikal
+              <br />
+              Kainth
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Nikhil
+              <br />
+              Sehgal
+            </h2>
+          </a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://alexxandria.vercel.app/"
+            className="navigation-bottom__projects-card"
+          >
+            <img src="webp/alexxandria-nav.webp" alt="alexxandria" />
+            <h2>
+              Paras
+              <br />
+              Goel
+            </h2>
+          </a>
+          <br/>
+        </div>
+
       </motion.div>
     </motion.div>
   </motion.div>
